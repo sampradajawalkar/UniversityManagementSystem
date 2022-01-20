@@ -1,0 +1,2 @@
+ 
+For Counter, I have used two buttons for increment and decrement.
